@@ -1,0 +1,30 @@
+* {
+  text-align: center;
+  font-family: monospace, serif;
+}
+body {
+  background-image: url("https://content.codecademy.com/projects/broadway/bg.jpg"); 
+}
+h2 {
+  font-family: times, serif;
+  color: midnightblue;
+}
+table {
+  margin: 0 auto;
+  border: 1px solid black;
+}
+th {
+  background-color: lightblue;
+  font-weight: bold;
+}
+td {
+  border: 1px solid black;
+}
+.btn {
+  background-color: gray;
+  border: 1px solid black;
+  padding: 10px;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: skyblue;
+}
