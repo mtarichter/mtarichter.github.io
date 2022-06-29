@@ -22,9 +22,8 @@ td {
   border: 1px solid black;
 }
 .btn {
-  padding: 5px;
   border: 1px solid black;
-  border-radius: 5px;
+  border-radius: 10px;
   text-decoration: none;
   box-shadow: 0px 5px;
 }
@@ -34,7 +33,10 @@ td {
 }
  
 .btn:active {
-  margin-top: 5px;
+  margin-top: 24px;
+  margin-bottom: 16px;
   color: black;
   box-shadow: 0px 0px;
+  background-color: #C0D6DF;
+  color: #ffffff;
 }
